@@ -14,5 +14,6 @@
 
 ## Snapshots
 
-<img src ="https://github.com/razzaq-99/SuperStore_Sales_Analysis/blob/master/SuperStore_Sales_Dashboard_1.png" >
 <img src = "https://github.com/razzaq-99/SuperStore_Sales_Analysis/blob/master/SuperStore_Sales_Dashboard_2.png" >
+<img src ="https://github.com/razzaq-99/SuperStore_Sales_Analysis/blob/master/SuperStore_Sales_Dashboard_1.png" >
+
